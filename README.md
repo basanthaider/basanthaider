@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassant Haider</h1>
-<h3 align="center">so | Innovating with Java & Kotlin | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | Innovating with Java & Kotlin | Tech Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basanthaider" alt="basanthaider" /></a> </p>
 
