@@ -13,6 +13,9 @@
   <a href="https://linkedin.com/in/bassanthaider" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="LinkedIn">
   </a>
+  <a href="https://twitter.com/basanthaider" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="Twitter">
+  </a>
 </p>
 
 ---
