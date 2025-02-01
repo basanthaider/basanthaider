@@ -2,7 +2,7 @@
 <h3 align="center">💖 Software Engineer | Java & Kotlin Enthusiast | Mobile Dev 💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xThta0PfzHCX1O4XVm/giphy.gif" width="200">
+ <iframe src="https://giphy.com/embed/HzPtbOKyBoBFsK4hyc" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc">via GIPHY</a></p>
 </p>
 
 <p align="center">
@@ -45,12 +45,12 @@
 
 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basanthaider&theme=rose_pine&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="48%" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basanthaider&theme=rose_pine&hide_border=true" width="48%" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="48%" height="150">
 </p>
 
 ---
