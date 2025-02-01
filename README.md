@@ -1,10 +1,9 @@
-<h1 align="center">✨ Hi, I'm Bassant Haider! 👋</h1>
+<h1 align="center">✨ Hola, I'm Bassant Haider! 👋</h1>
 <h3 align="center">💖 Software Engineer | Java & Kotlin Enthusiast | Mobile Dev 💖</h3>
 
 <p align="center">
   <!-- Use a working GIF -->
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
-
 </p>
 
 <p align="center">
@@ -41,7 +40,7 @@
 ---
 
 🎀 **Fun Facts About Me** 🎀  
-🎶 I enjoy listening to **classical music** while coding!   
+🎶 I enjoy listening to **classical music** while coding!  
 
 ---
 
