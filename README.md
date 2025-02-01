@@ -2,7 +2,8 @@
 <h3 align="center">💖 Software Engineer | Java & Kotlin Enthusiast | Mobile Dev 💖</h3>
 
 <p align="center">
-<img src="[https://media.giphy.com/media/xThta0PfzHCX1O4XVm/giphy.gif](https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc)" width="200">
+  <!-- Use a working GIF -->
+  <img src="https://media.giphy.com/media/xThta0PfzHCX1O4XVm/giphy.gif" width="200">
 </p>
 
 <p align="center">
