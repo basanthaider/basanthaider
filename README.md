@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, I'm Bassant ! 👋</h1>
+<h1 align="center">✨ Hola, I'm Basant ! 👋</h1>
 <h3 align="center"> Software Engineer | Java & Kotlin Enthusiast | Mobile Dev </h3>
 
 <p align="center">
