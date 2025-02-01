@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/basanthaider" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-Bassant%20Haider-blueviolet?&style=for-the-badge&color=ff69b4&labelColor=ffffff&logoColor=ffffff" alt="Twitter">
   </a>
 </p>
 
