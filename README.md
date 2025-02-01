@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/basanthaider" target="blank">
-    <img src="https://img.shields.io/twitter/follow/basanthaider?logo=twitter&style=for-the-badge&color=ff69b4&labelColor=ffffff&logoColor=ffffff" alt="Twitter">
-  </a>
   <a href="https://linkedin.com/in/bassanthaider" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="LinkedIn">
   </a>
