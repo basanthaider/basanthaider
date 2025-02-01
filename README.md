@@ -3,7 +3,8 @@
 
 <p align="center">
   <!-- Use a working GIF -->
-  <img src="https://media.giphy.com/media/xThta0PfzHCX1O4XVm/giphy.gif" width="200">
+  <  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
+
 </p>
 
 <p align="center">
