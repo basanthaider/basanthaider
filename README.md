@@ -2,7 +2,7 @@
 <h3 align="center">💖 Software Engineer | Java & Kotlin Enthusiast | Mobile Dev 💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9jExd1zAoNE98mE/giphy.gif" width="200">
+  <img src="[https://media.giphy.com/media/3ov9jExd1zAoNE98mE/giphy.gif](https://media.giphy.com/media/Xx1KwaTNBliH6/giphy.gif?cid=ecf05e47wccif6s07xg08zrlebikq2a3alimuretwdj7u0lm&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="200">
 </p>
 
 <p align="center">
