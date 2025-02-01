@@ -3,16 +3,16 @@
 
 <p align="center">
   <!-- Use a working GIF -->
-  <  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
 
 </p>
 
 <p align="center">
   <a href="https://twitter.com/basanthaider" target="blank">
-    <img src="https://img.shields.io/twitter/follow/basanthaider?logo=twitter&style=for-the-badge" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/basanthaider?logo=twitter&style=for-the-badge&color=ff69b4&labelColor=ffffff&logoColor=ffffff" alt="Twitter">
   </a>
   <a href="https://linkedin.com/in/bassanthaider" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="LinkedIn">
   </a>
 </p>
 
