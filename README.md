@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hola, I'm Bassant Haider! 👋</h1>
+<h1 align="center">✨ Hola, I'm Bassant ! 👋</h1>
 <h3 align="center"> Software Engineer | Java & Kotlin Enthusiast | Mobile Dev </h3>
 
 <p align="center">
@@ -28,13 +28,13 @@
 
 🛠️ **Tech Stack & Tools I Use** 🛠️  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-blueviolet?style=for-the-badge&logo=java"> 💻
-  <img src="https://img.shields.io/badge/Code-Kotlin-purple?style=for-the-badge&logo=kotlin"> 📱
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=spring"> 🍃
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql"> 🗃️
-  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase"> ☁️
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker"> 🐳
-  <img src="https://img.shields.io/badge/VersionControl-Git-pink?style=for-the-badge&logo=git"> 🔧
+  <img src="https://img.shields.io/badge/Code-Java-blueviolet?style=for-the-badge&logo=java"> 
+  <img src="https://img.shields.io/badge/Code-Kotlin-purple?style=for-the-badge&logo=kotlin"> 
+  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=spring"> 
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql"> 
+  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase"> 
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker"> 
+  <img src="https://img.shields.io/badge/VersionControl-Git-pink?style=for-the-badge&logo=git"> 
 </p>
 
 ---
