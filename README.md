@@ -49,13 +49,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="50%"  alt="basanthaider">
 </p>
 
-<P align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=basanthaider&theme=rose_pine&hide_border=true" width="50%"  alt="basanthaider">
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="50%" alt="basanthaider">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=basanthaider&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak Stats">
+</p>
+
 
 ---
 
