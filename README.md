@@ -53,9 +53,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basanthaider&theme=rose_pine&hide_border=true" width="50%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="50%">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basanthaider&" alt="basanthaider" /></p>
+
 
 ---
 
