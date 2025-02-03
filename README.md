@@ -54,9 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=basanthaider&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=basanthaider&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak Stats">
 </p>
-
 
 ---
 
