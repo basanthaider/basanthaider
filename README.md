@@ -46,11 +46,15 @@
 
 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="30%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Stats">
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="30%" alt="Most Used Lang.">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="50%" alt="Most Used Lang.">
+</p>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=basanthaider&theme=rose_pine&hide_border=true" width="30%" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=basanthaider&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak" /></a>
 </p>
 
 ---
