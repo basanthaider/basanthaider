@@ -54,7 +54,9 @@
 </p>
 
 <p align="center">
-  <a href="[![GitHub Streak](https://streak-stats.demolab.com/?basanthaider=DenverCoder1)](https://git.io/streak-stats)&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=basanthaider&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
