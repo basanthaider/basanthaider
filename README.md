@@ -18,7 +18,7 @@
 ---
 
 🌸 **About Me** 🌸  
-🌱 Currently learning **Flutter** to expand my mobile development skills.  
+🌱 Currently, expand my web development skills.  
 💡 Passionate about **Android Development and web Applications Development**.  
 🚀 Love working with **Java, Kotlin, and Spring Boot**.  
 📂 Check out my portfolio: [✨ My Projects ✨](https://bassanthaider.my.canva.site/)  
