@@ -40,10 +40,10 @@
 ---
 
 📊 **GitHub Stats**  
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Stats">
 </p>
--->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="50%" alt="Most Used Lang.">
 </p>
