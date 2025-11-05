@@ -55,7 +55,5 @@
 </p>
 -->
 
----
-
-🌸 *"Coding is like painting a picture, but with logic and passion."* 🌸  
+---  
  *Let's connect and create something amazing!*  
