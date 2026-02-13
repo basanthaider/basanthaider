@@ -1,59 +1,98 @@
-<h1 align="center">✨ Hola, I'm Basant ! 👋</h1>
-<h3 align="center"> Software Engineer | Java & Kotlin Enthusiast  </h3>
+<h1 align="center">Hi 👋, I'm Basant Haider</h1>
+<h3 align="center">🚀 Software Engineer | Android & Backend Developer | Java • Kotlin • Spring Boot</h3>
 
 <p align="center">
-  <!-- Use a working GIF -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Engineer;Spring+Boot+Enthusiast;Kotlin+%7C+Java+Lover;Always+Learning+New+Tech" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bassanthaider" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-blueviolet?style=for-the-badge&logo=linkedin&color=ff8c00&labelColor=ffffff" alt="LinkedIn">
+  <a href="https://linkedin.com/in/bassanthaider" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bassant%20Haider-ff8c00?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/basanthaider" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-Bassant%20Haider-blueviolet?&style=for-the-badge&color=ff69b4&labelColor=ffffff&logoColor=ffffff" alt="Twitter">
+  <a href="https://twitter.com/basanthaider" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@basanthaider-ff69b4?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:basssnthaider@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-🌸 **About Me** 🌸  
-🌱 Currently, expand my web development skills.  
-💡 Passionate about **Android Development and web Applications Development**.  
-🚀 Love working with **Java, Kotlin, and Spring Boot**.  
-📂 Check out my portfolio: [✨ My Projects ✨](https://bassanthaider.my.canva.site/)  
-📩 Reach me at: **basssnthaider@gmail.com**  
+## 🌸 About Me  
+
+✨ Passionate **Software Engineer** specializing in **Android Development** and **Backend Systems**  
+🌱 Currently expanding my skills in **Full-Stack Web Development**  
+💡 Strong focus on **Clean Architecture, REST APIs, and Scalable Applications**  
+🚀 Love building production-ready apps using **Java, Kotlin & Spring Boot**  
+📂 Portfolio: https://bassanthaider.my.canva.site  
 
 ---
 
-🛠️ **Tech Stack & Tools I Use** 🛠️  
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-blueviolet?style=for-the-badge&logo=java"> 
-  <img src="https://img.shields.io/badge/Code-Kotlin-purple?style=for-the-badge&logo=kotlin"> 
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=for-the-badge&logo=spring"> 
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql"> 
-  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge&logo=firebase"> 
-  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker"> 
-  <img src="https://img.shields.io/badge/VersionControl-Git-pink?style=for-the-badge&logo=git"> 
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,python" />
+</p>
+
+### ⚙️ Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,angular" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode" />
 </p>
 
 ---
 
-📊 **GitHub Stats**  
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Stats">
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basanthaider&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basanthaider&layout=compact&theme=rose_pine&hide_border=true" width="50%" alt="Most Used Lang.">
+  <img src="https://streak-stats.demolab.com?user=basanthaider&theme=radical&hide_border=true" width="60%" />
 </p>
-<!--
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=basanthaider&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
--->
 
----  
- *Let's connect and create something amazing!*  
+---
+
+## 🚀 What I'm Currently Working On  
+
+- 🔹 Building scalable REST APIs using **Spring Boot**
+- 🔹 Developing modern Android applications with **Kotlin**
+- 🔹 Improving system design & backend architecture skills
+- 🔹 Exploring Docker & Cloud deployment strategies
+
+---
+
+## 🎯 2026 Goals  
+
+- ✅ Master advanced Spring Security & Microservices  
+- ✅ Publish production-level Android apps  
+- ✅ Contribute to Open Source  
+- ✅ Strengthen Data Structures & Algorithms  
+
+---
+
+## 💡 Profile Keywords (SEO Boost 🚀)
+
+`Java Developer` • `Kotlin Developer` • `Spring Boot Developer` •  
+`Android Developer` • `Backend Engineer` • `REST API Developer` •  
+`Full Stack Developer` • `Software Engineer`
+
+---
+
+<p align="center">
+  ⭐️ From <b>Basant Haider</b> — Let's build something impactful!
+</p>
