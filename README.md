@@ -70,7 +70,6 @@
 ## 🚀 What I'm Currently Working On  
 
 - 🔹 Building scalable REST APIs using **Spring Boot**
-- 🔹 Developing modern Android applications with **Kotlin**
 - 🔹 Improving system design & backend architecture skills
 - 🔹 Exploring Docker & Cloud deployment strategies
 
