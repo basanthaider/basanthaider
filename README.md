@@ -7,7 +7,7 @@
   align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
 </p>
 
-<h4 align="center">🌐 Connect With Me</h4>
+<h4 align="center">Connect With Me</h4>
 <p align="center">
   <a href="https://linkedin.com/in/bassanthaider"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;
   <a href="mailto:bassanthaidermohamed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;
