@@ -77,20 +77,9 @@
 ---
 
 ## 🎯 2026 Goals  
-
-- ✅ Master advanced Spring Security & Microservices  
-- ✅ Publish production-level Android apps  
-- ✅ Contribute to Open Source  
-- ✅ Strengthen Data Structures & Algorithms  
-
----
-
-## 💡 Profile Keywords (SEO Boost 🚀)
-
-`Java Developer` • `Kotlin Developer` • `Spring Boot Developer` •  
-`Android Developer` • `Backend Engineer` • `REST API Developer` •  
-`Full Stack Developer` • `Software Engineer`
-
+- Contribute to Open Source
+- Master advanced Spring Security & Microservices  
+   
 ---
 
 <p align="center">
