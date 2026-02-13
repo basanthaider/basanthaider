@@ -78,6 +78,5 @@
 ---
 
 <p align="center">
-   Open to Backend & Java Developer Opportunities
-   From <b>Basant Haider</b> — Let's build something impactful!
+     Open to Backend & Java Developer Opportunities — Let's build something impactful!
 </p>
