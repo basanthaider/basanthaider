@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bassant Haider</h1>
- <h3 align="center">🚀 Software Engineer | Android & Backend Developer | Java • Kotlin • Spring Boot</h3> 
+ <h3 align="center">🚀 Software Engineer | Android & Fullstack Developer | Java • Kotlin • Spring Boot • Angular </h3> 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Android+Developer;Backend+Engineer;Spring+Boot+Enthusiast;Kotlin+%7C+Java+Lover;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Backend+Engineer;Android+Developer;Frontend+Developer;Spring+Boot+Angular+Enthusiast;Kotlin+%7C+Java+Lover;Always+Learning+New+Tech" />
 </p>
 <p 
   align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXM4NDkwem4xa2V6b3ZjNW51cGFlYXJmY3ExbmFxMDJwbGszZGExaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200">
